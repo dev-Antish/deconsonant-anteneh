@@ -1,0 +1,22 @@
+{
+  "name": "deconsonant-anteneh",
+  "version": "1.0.0",
+  "description": "NPM package which removes all the consonants from a sentence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "anteneh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-Antish/deconsonant-anteneh.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "Anteneh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev-Antish/deconsonant-anteneh/issues"
+  },
+  "homepage": "https://github.com/dev-Antish/deconsonant-anteneh#readme"
+}
